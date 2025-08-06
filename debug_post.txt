@@ -1,0 +1,8 @@
+Array
+(
+    [nama] => adas
+    [kategori] => adad
+    [deskripsi] => asdad
+    [harga] => 3453453
+    [menu] => 
+)
